@@ -1,0 +1,17 @@
+{
+  "name": "firebase-ua",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": "0.10.12",
+    "npm": "1.2.30"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6.3",
+    "firebase": "~0.5.4",
+    "firebase-token-generator": "~0.1.2",
+    "urban-airship": "~0.2.4",
+    "underscore": "~1.4.4",
+    "express": "~3.3.0"
+  }
+}
