@@ -1,6 +1,6 @@
-# Firebase / Urban Airship push notifications queue
+# Firebase / Urban Airship push messages
 
-Use a Firebase queue hosted on Heroku for delivering push notifications through Urban Airship.
+Use a Firebase queue hosted on Heroku for delivering iOS push notifications through Urban Airship.
 
 * Task queue: Firebase WorkQueue.js
 
