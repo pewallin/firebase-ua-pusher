@@ -50,10 +50,12 @@ Expects the Firebase push messages to be added as
 Message should have the following Urban Airship fields:
 
 Mandatory
+
     alias or device_token
     alert
 
 Optional
+
     Badge
     Sound
 
