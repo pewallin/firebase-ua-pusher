@@ -1,14 +1,14 @@
-# Firebase / Urban Airship push messages
+# Firebase / Urban Airship queue
 
-Use a Firebase queue for delivering iOS push notifications through Urban Airship.
+Use a Firebase queue for delivering iOS push messages through Urban Airship.
 
 * Task queue: Firebase WorkQueue.js
 
 # Installation
 
-## Local dev environment (OSX, but Linux should be similar)
+## Local dev environment 
 
-Add to .bash_profile
+Add to .bash_profile or similar
 
     export FIREBASE_URL="firebase-url"
     export FIREBASE_SECRET="firebase-secret"
